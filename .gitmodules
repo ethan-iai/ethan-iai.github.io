@@ -1,0 +1,3 @@
+[submodule "pact"]
+	path = pact
+	url = https://github.com/ethan-iai/pact.github.io
